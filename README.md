@@ -8,3 +8,5 @@ Greito atsisiuntimo mygtukas: https://github.com/dziugas1959/-emaitiu-kalbos-kla
 Ši klaviatūra yra pagal „QWERTY“ dėstymą. Noriant tinkamai įdiegti, priklauso nuo operacinės sistemos aišku (Pagal „Windows 10“ bus apibrėžta). 
 
 Įdiegę naudojant „Setup.exe“ paleiskite kompiuterį iš naujo, nueikite į parametrus, kalba, nuėję į lietuvių pašalinkite iš jos žemaičių kalbos išdėstymą, nueikite į „nauja kalba“ įveskite žemaičių pasirinkite, pakeiskite „US Klaviatūra“ į „Žemaitiu kalba“ 
+
+Jei klausiate kur yra mygtukai kur tūrėtų būti, tai jie po „Ctrl+Alt“ arba po „Shift+Ctrl+Alt“ pvz: „Shift+Ctrl+Alt+ė̄“ - ir t.t
