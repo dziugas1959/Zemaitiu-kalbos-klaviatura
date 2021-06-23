@@ -1,4 +1,4 @@
-# -emaitiu-kalbos-klaviat-ra
+# -emaitiu-kalbos-klaviat-ra (Neleido su lietuviškom raidėm rašyt)
 Žemaičių/Žemaitiu kalbos klaviatūra kuria aš sukūriau (Su lietuviškom kabutėm) ir visom žemaitėškom raidėm
 
 Ja sukūriau pats naudodamas „Microsoft keyboard layout creator 1.4“ 
